@@ -6,7 +6,7 @@ Serial.readBytesUntil()
 All of these are blocking functions that prevent the Arduino from doing something else until they are satisfied, or until the timeout expires. The examples here do exactly the same job without blocking. That allows the Arduino to do other things while it is waiting for data to arrive.
 */
 int led = 13;
-const String password = "ledsht489";
+const String password = "ledfck489";
 int i = 0;
 String userpass;
 
